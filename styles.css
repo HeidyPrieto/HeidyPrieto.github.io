@@ -280,6 +280,7 @@ margin-left: -40px;
     opacity: 1;
     font-size: 20px;
     color: beige;
+    transition: all 0.3s ease;
 }
 #imgSQUI{
     margin-left: 6px;
@@ -294,6 +295,7 @@ margin-left: -40px;
     font-size: 20px;
     color: beige;
     text-align:left;
+    transition: all 0.3s ease;
 }
 #PSQUI{
     font-size: 40px;
