@@ -411,8 +411,20 @@ p{
     float: left;
 }
 @media (min-width:600px){
-body{
-background-color: blue;
+#Liana1{
+    margin-top: -20px;
+
 }
+#Liana2{
+    margin-left: 35px;
+    
+}
+#Lianaa2{
+    margin-left: 35px;
+    margin-top: -20px;
+}
+#Lianaaa2{
+    margin-left: 35px;
+    margin-top: -20px;
 }
 }
