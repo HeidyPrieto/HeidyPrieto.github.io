@@ -1,10 +1,11 @@
 const typed = new Typed('.typed', {
     strings: [
-    '<i class="palabras"><Libera</i>', 
+    '<i class="palabras">Libera</i>', 
     '<i class="palabras">Da libertad</i>', 
     '<i class="palabras">Alegra</i>', 
     '<i class="palabras">Da Paz</i>', 
     '<i class="palabras">Relaja</i>', 
+    '<i class="palabras">Da vida</i>',
     '<i class="palabras">Enamora</i>'
 ],
 stringsElements: '#cadenas-texto',
